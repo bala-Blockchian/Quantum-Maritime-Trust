@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Quantum Keys
+*.key
+
+# liboqs Build artifacts
+_oqs/
+liboqs/
+
+# Database
+*.db
+
+# OS
+.DS_Store
